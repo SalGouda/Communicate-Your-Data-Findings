@@ -1,3 +1,5 @@
+This project was completed as part of Udacity's Advanced Data Analysis Nanodegree program.
+
 # communicate-your-data-findings
 # (Ford GoBike System Data)
 ## by (Salma Gouda)
